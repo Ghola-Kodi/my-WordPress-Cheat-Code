@@ -1,6 +1,8 @@
 # my-WordPress-Cheat-Code
 Welcome to my collection of WordPress Cheat Code Snippets – the one I use for my themes and plugins. They are great for themes, plugins, custom development, widgets, and all things WordPress.
-What to Expect
+ 
+ What to Expect
+
 This repository contains battle-tested WordPress code snippets that I've collected, refined, and used in real projects. They're organized like a well-stocked toolbox:
 Theme Customization
 How to properly load CSS/JS (without making your site slower)
